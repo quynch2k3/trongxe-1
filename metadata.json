@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Quản lý Bãi gửi xe",
+  "description": "Parking lot management system for the Youth Union of Ba Dinh Ward, featuring dashboard, check-in/out, and volunteer management.",
+  "requestFramePermissions": []
+}
